@@ -1,0 +1,4 @@
+﻿  SAMaker.cpp
+  LINK : 没有找到 C:\Users\CL\Desktop\程序源码\Debug\SAMaker.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\Users\CL\Desktop\程序源码\Debug\SAMaker.lib 和对象 C:\Users\CL\Desktop\程序源码\Debug\SAMaker.exp
+  SAMaker.vcxproj -> C:\Users\CL\Desktop\程序源码\Debug\SAMaker.dll

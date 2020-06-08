@@ -1,0 +1,14 @@
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\bin\Release\BGMaker.exe.config
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\bin\Release\BGMaker.exe.manifest
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\bin\Release\BGMaker.application
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\bin\Release\BGMaker.exe
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\bin\Release\BGMaker.pdb
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.Form1.resources
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.Properties.Resources.resources
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.csproj.GenerateResource.cache
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.csproj.CoreCompileInputs.cache
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.exe.manifest
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.application
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.exe
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.pdb
+E:\程序源文件存储区\BanG\BGMaker\BGMaker\BGMaker\obj\Release\BGMaker.csprojAssemblyReference.cache

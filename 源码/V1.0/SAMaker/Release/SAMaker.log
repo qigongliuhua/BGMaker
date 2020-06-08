@@ -1,0 +1,4 @@
+﻿  SAMaker.cpp
+    正在创建库 C:\Users\CL\Desktop\程序源码\Release\SAMaker.lib 和对象 C:\Users\CL\Desktop\程序源码\Release\SAMaker.exp
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 _main
+C:\Users\CL\Desktop\程序源码\Release\SAMaker.exe : fatal error LNK1120: 1 个无法解析的外部命令
